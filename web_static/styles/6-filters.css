@@ -84,10 +84,7 @@
     margin-left: -40px;
 }
 
-.locations:hover .popover{
+.locations:hover .popover,
+.amenities:hover .popover{
     display: block;
-  }
-
-  .amenities:hover .popover{
-    display: block;
-  }
+}
