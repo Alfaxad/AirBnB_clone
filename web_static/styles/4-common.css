@@ -9,4 +9,10 @@ body {
 .container{
     max-width: 1000px;
     margin: 30px auto;
+    position: relative;
+}
+
+/* FIX THE OVERLAPPING OF FOOTER WITH ARTICLES */
+html {
+    position: relative;
 }
